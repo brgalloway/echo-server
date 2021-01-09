@@ -3,7 +3,7 @@ Thumbs.db
 ehthumbs.db
 
 .idea/
-
+*.zip
 # Folder config file
 Desktop.ini
 
